@@ -15,21 +15,7 @@ Welcome to my **100 Days of SQL Challenges** repository! 🎉 This is my persona
 - Feel free to follow along, challenge yourself, and share your own progress!
 - I will be updating this repository regularly with daily challenges and solutions.
 
----
-
-### 📈 Progress Updates
-- Day 1: [Challenge Description and Solution]
-- Day 2: [Challenge Description and Solution]
-- ...
-- Day 100: [Challenge Description and Solution]
-
----
-
 ### Let's Connect!
 If you're also undertaking SQL challenges or have any tips to share, feel free to reach out!
 
 Happy learning! 🎉
-
---- 
-
-Feel free to customize this description to fit your style and add specific details about your challenges as you progress!
